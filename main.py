@@ -13,3 +13,6 @@ yd.download('C:\\Users\\HP\\Desktop\\ytDownPIP')
 
 # run thru shell script
 # run in ubuntu?
+# #!/bin/zsh
+# cd C:\Users\HP\PycharmProjects\YTdownloader
+# python main.py $1
